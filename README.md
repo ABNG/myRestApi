@@ -1,7 +1,7 @@
 # myRestApi
 
 # Getting Started
-## Installation
+### Installation
 Clone the repo:
 
 ```
@@ -22,7 +22,7 @@ cp .env.example .env
 
 # open .env and modify the environment variables (if needed)
 ```
-## Commands
+### Commands
 
 ```
 yarn run start
