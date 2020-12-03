@@ -11,7 +11,10 @@ cd node-express-mongoose-boilerplate
 
 Install the dependencies:
 
-```yarn install```
+```
+yarn install
+
+```
 
 Set the environment variables:
 
