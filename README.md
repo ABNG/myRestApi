@@ -13,7 +13,6 @@ Install the dependencies:
 
 ```
 yarn install
-
 ```
 
 Set the environment variables:
